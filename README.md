@@ -1,13 +1,43 @@
+# Cloud Computing with DevOps Practical
 
-git push origin main --force
+##  Students Information
 
-# 🚀 Practical A 140 – DevOps Practical Commands
+| Name | Enrollment Number | Practical Set |
+|------|------------------|--------------|
+| Patel liza | 202504104610140 | Set A |
+| Haidarali | 202504104610149 | Set B |
 
-## 📌 Practical 3 Commands
+---
 
-### Clone Repository
-```bash
-git clone https://github.com/patelliza21/Practical_A_140.git
-git add .
-git commit -m "pra 3 done"
-git push origin main --force
+##  Logos
+
+
+![University Logo](Images/utu.png)
+### University : utu
+
+![University Logo](Images/srimca.png)
+#### Department : SRIMCA
+
+---
+
+##  Subject
+Cloud Computing with DevOps
+
+---
+
+##  Practical Overview
+This repository contains practical exercises and assignments related to Cloud Computing with DevOps. It includes Python programs, GitHub operations, and proper documentation for all tasks.
+
+---
+
+##  Notes
+
+ - Each practical task is organized in separate files.
+
+ - The requirenents. txt file contains all dependencies needed for Python programs.
+
+ - Images and documentation are included to make the README informative and visually clear.
+
+---
+
+
