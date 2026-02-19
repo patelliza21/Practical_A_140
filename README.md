@@ -12,10 +12,10 @@
 ##  Logos
 
 
-![University Logo](Images/utu.png)
+![University Logo](C:\Users\hisun\Desktop\Practical_A_140\Image\srimca.png)
 ### University : utu
 
-![University Logo](Images/srimca.png)
+![University Logo](C:\Users\hisun\Desktop\Practical_A_140\Image\utu.png)
 #### Department : SRIMCA
 
 ---
