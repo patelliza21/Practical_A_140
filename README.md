@@ -30,7 +30,7 @@ This repository contains practical exercises and assignments related to Cloud Co
 
 ---
 
-###  Notes
+##  Notes
 
  - Each practical task is organized in separate files.
 
