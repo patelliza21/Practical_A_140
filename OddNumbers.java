@@ -1,23 +1,19 @@
 public class OddNumbers {
     public static void main(String[] args) {
 
-        int sum = 0, count = 0;
+        int min = 1;
+        int max = 99;
+        int sum = 0;
 
-        System.out.println("Odd numbers between 1 to 50:");
+        System.out.println("Odd Numbers between 1 to 100:");
 
-        for (int i = 1; i <= 50; i += 2) {
+        for (int i = 1; i <= 100; i += 2) {
             System.out.print(i + " ");
             sum += i;
-            count++;
         }
 
-        System.out.println("\n\nThree Minimum Odd Numbers:");
-        System.out.println("1 3 5");
-
-        System.out.println("\nThree Maximum Odd Numbers:");
-        System.out.println("45 47 49");
-
-        double avg = (double) sum / count;
-        System.out.println("\nAverage of odd numbers: " + avg);
+        System.out.println("\nMinimum Odd Number: " + min);
+        System.out.println("Maximum Odd Number: " + max);
+        System.out.println("Total Sum: " + sum);
     }
 }
